@@ -1,0 +1,20 @@
+/Users/user/myepicproject/target/rls/debug/deps/librustversion-23894ade9d8240ae.dylib: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /Users/user/myepicproject/target/rls/debug/build/rustversion-2a7bedf5a3b362d5/out/version.rs
+
+/Users/user/myepicproject/target/rls/debug/deps/rustversion-23894ade9d8240ae.d: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /Users/user/myepicproject/target/rls/debug/build/rustversion-2a7bedf5a3b362d5/out/version.rs
+
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs:
+/Users/user/myepicproject/target/rls/debug/build/rustversion-2a7bedf5a3b362d5/out/version.rs:
+
+# env-dep:OUT_DIR=/Users/user/myepicproject/target/rls/debug/build/rustversion-2a7bedf5a3b362d5/out
